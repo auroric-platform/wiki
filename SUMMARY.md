@@ -25,13 +25,23 @@
 
 * [History of Aurora](history/history-of-aurora.md)
 
-## Legal <a href="#law" id="law"></a>
+## law
 
-* [Legal System of Aurora](law/legal-system-of-aurora.md)
+* [Legal System of Aurora](law/legal-system-of-aurora/README.md)
+  * [Basic Rules and Law](law/legal-system-of-aurora/basic-rules-and-law.md)
 * [Executive Order](law/executive-order/README.md)
   * [Executive Order 1](law/executive-order/executive-order-1.md)
   * [Executive Order 2](law/executive-order/executive-order-2.md)
   * [Executive Order 3](law/executive-order/executive-order-3.md)
   * [Executive Order 4](law/executive-order/executive-order-4.md)
 * [Statutory Law](law/statutory-law.md)
-* [Customary Law](law/customary-law.md)
+* [Customary Law](law/customary-law/README.md)
+  * [Court Judgement](law/customary-law/court-judgement.md)
+  * [Synercraft Customaries](law/customary-law/synercraft-customaries.md)
+* [Bills](law/bills.md)
+
+## Government
+
+* [Executive Branch](government/executive-branch.md)
+* [Legislative Branch](government/legislative-branch.md)
+* [Judicial Branch](government/judicial-branch.md)
