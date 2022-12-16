@@ -4,9 +4,12 @@
 
 ## Experience
 
-* [Getting Started](experience/getting-started.md)
+* [Getting Started](experience/getting-started/README.md)
+  * [What to do](experience/getting-started/what-to-do.md)
+  * [Transportation](experience/getting-started/transportation.md)
+  * [Regions and Territories](experience/getting-started/regions-and-territories.md)
+  * [Citizenship](experience/getting-started/citizenship.md)
 * [Aurora Mainland](experience/aurora-mainland/README.md)
-  * [Transportation](experience/aurora-mainland/transportation.md)
   * [Regions](experience/aurora-mainland/regions/README.md)
     * [Cenario](experience/aurora-mainland/regions/cenario.md)
     * [Redstoneia](experience/aurora-mainland/regions/redstoneia.md)
@@ -52,9 +55,23 @@
       * [Homeland Affairs](government/government-of-aurora/executive-branch/departments/homeland-affairs.md)
       * [Foreign and Culture Affairs](government/government-of-aurora/executive-branch/departments/foreign-and-culture-affairs.md)
       * [Safety and Defense](government/government-of-aurora/executive-branch/departments/safety-and-defense/README.md)
-        * [Armed Forces](government/government-of-aurora/executive-branch/departments/safety-and-defense/armed-forces.md)
+        * [Defense Forces](government/government-of-aurora/executive-branch/departments/safety-and-defense/defense-forces.md)
+        * [National Police Services](government/government-of-aurora/executive-branch/departments/safety-and-defense/national-police-services.md)
         * [Intelligence Services Agency](government/government-of-aurora/executive-branch/departments/safety-and-defense/intelligence-services-agency.md)
         * [Food Security Agency](government/government-of-aurora/executive-branch/departments/safety-and-defense/food-security-agency.md)
-      * [Energy and Resources](government/government-of-aurora/executive-branch/departments/energy-and-resources.md)
-  * [Judicial Branch](government/government-of-aurora/judicial-branch.md)
+      * [Energy and Resources](government/government-of-aurora/executive-branch/departments/energy-and-resources/README.md)
+        * [National Park Authority](government/government-of-aurora/executive-branch/departments/energy-and-resources/national-park-authority.md)
+        * [National Observatory](government/government-of-aurora/executive-branch/departments/energy-and-resources/national-observatory.md)
+        * [National Laboratories Authority](government/government-of-aurora/executive-branch/departments/energy-and-resources/national-laboratories-authority.md)
+  * [Judicial Branch](government/government-of-aurora/judicial-branch/README.md)
+    * [Prime Minister of Aurora](government/government-of-aurora/judicial-branch/prime-minister-of-aurora.md)
+    * [Judiciary](government/government-of-aurora/judicial-branch/judiciary.md)
   * [Legislative Branch](government/government-of-aurora/legislative-branch.md)
+
+## Other
+
+* [People](other/people/README.md)
+  * [Officials](other/people/officials/README.md)
+    * [Gab1205](other/people/officials/gab1205.md)
+* [Worldview](other/worldview/README.md)
+  * [Concord Worldview](other/worldview/concord-worldview.md)

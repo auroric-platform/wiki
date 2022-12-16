@@ -1,2 +1,0 @@
-# Armed Forces
-
