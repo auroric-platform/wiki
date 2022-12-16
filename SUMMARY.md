@@ -4,7 +4,7 @@
 
 ## Experience
 
-* [Getting Started](experience/getting-started/README.md)
+* [Getting Started](experience/getting-started.md)
   * [What to do](experience/getting-started/what-to-do.md)
   * [Transportation](experience/getting-started/transportation.md)
   * [Regions and Territories](experience/getting-started/regions-and-territories.md)
@@ -73,5 +73,7 @@
 * [People](other/people/README.md)
   * [Officials](other/people/officials/README.md)
     * [Gab1205](other/people/officials/gab1205.md)
+* [Culture](other/culture/README.md)
+  * [Events and Festivals](other/culture/events-and-festivals.md)
 * [Worldview](other/worldview/README.md)
   * [Concord Worldview](other/worldview/concord-worldview.md)
