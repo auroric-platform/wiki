@@ -1,3 +1,3 @@
-# History
+# The Aurora Wiki
 
 Test

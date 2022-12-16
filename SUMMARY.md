@@ -1,3 +1,3 @@
 # Table of contents
 
-* [History](README.md)
+* [The Aurora Wiki](README.md)
