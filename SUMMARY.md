@@ -52,6 +52,5 @@
     * [Commerce](government/executive-branch/departments/commerce.md)
     * [Safety and Defense](government/executive-branch/departments/safety-and-defense.md)
     * [Energy and Resources](government/executive-branch/departments/energy-and-resources.md)
-    * [Page 1](government/executive-branch/departments/page-1.md)
 * [Legislative Branch](government/legislative-branch.md)
 * [Judicial Branch](government/judicial-branch.md)
