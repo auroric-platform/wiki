@@ -27,7 +27,7 @@
 
 ## law
 
-* [Legal System of Aurora](law/legal-system-of-aurora/README.md)
+* [Legal System of Aurora](law/legal-system-of-aurora.md)
   * [Basic Rules and Law](law/legal-system-of-aurora/basic-rules-and-law.md)
 * [Executive Order](law/executive-order/README.md)
   * [Executive Order 1](law/executive-order/executive-order-1.md)
@@ -42,6 +42,16 @@
 
 ## Government
 
-* [Executive Branch](government/executive-branch.md)
+* [Executive Branch](government/executive-branch/README.md)
+  * [President of Aurora](government/executive-branch/president-of-aurora.md)
+  * [National Security Council](government/executive-branch/national-security-council.md)
+  * [Departments](government/executive-branch/departments/README.md)
+    * [Justice](government/executive-branch/departments/justice.md)
+    * [Foreign and Culture Affairs](government/executive-branch/departments/foreign-and-culture-affairs.md)
+    * [Homeland Affairs](government/executive-branch/departments/homeland-affairs.md)
+    * [Commerce](government/executive-branch/departments/commerce.md)
+    * [Safety and Defense](government/executive-branch/departments/safety-and-defense.md)
+    * [Energy and Resources](government/executive-branch/departments/energy-and-resources.md)
+    * [Page 1](government/executive-branch/departments/page-1.md)
 * [Legislative Branch](government/legislative-branch.md)
 * [Judicial Branch](government/judicial-branch.md)
