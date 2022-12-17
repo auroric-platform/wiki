@@ -12,7 +12,7 @@ The Department consists of two agencies, four branches of the [Defense Forces](.
 
 ### Agencies
 
-* Intelligence Services Agency
+* [Intelligence Services Agency](intelligence-services-agency.md)
 * Food Security Agency
 
 ### Defense Forces

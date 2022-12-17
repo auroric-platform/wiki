@@ -1,2 +1,0 @@
-# Foreign and Culture Affairs
-
